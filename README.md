@@ -1,6 +1,6 @@
 # zen-assignment-react-pricecart
 
-Created a simple PriceCart-cards using React with FontAwesome and Bootstrap
+Created a simple PriceCart-Table using React with FontAwesome and Bootstrap
 <br><br>
 Netlify Url : https://zen-assignment-react-pricecart.netlify.app/
 <br><br>
